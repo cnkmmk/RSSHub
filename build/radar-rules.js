@@ -15247,7 +15247,7 @@
         target:(_params, url) => `/playno1/av/${new URL(url).searchParams.get('catid')}` } ] },
   "playpcesor.com":{ _name:"电脑玩物",
     ".":[ { title:"博客",
-        docs:"https://docs.rsshub.app/routes/blog#dian-nao-wang-wu",
+        docs:"https://docs.rsshub.app/routes/blog#dian-nao-wan-wu",
         source:[ "/" ],
         target:"/playpcesor" } ] },
   "plurk.com":{ _name:"Plurk",
